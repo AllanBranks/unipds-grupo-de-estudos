@@ -12,7 +12,7 @@ Nosso objetivo é criar uma comunidade ativa de aprendizado, compartilhamento de
 
 ---
 
-## 🎯 Objetivos
+# 🎯 Objetivos
 
 * Estudar os temas abordados na pós-graduação
 * Discutir conceitos, arquiteturas e tendências de mercado
@@ -23,70 +23,92 @@ Nosso objetivo é criar uma comunidade ativa de aprendizado, compartilhamento de
 
 ---
 
-## 📅 Dinâmica dos Encontros
+# 📅 Dinâmica dos Encontros
 
-Os encontros são organizados para equilibrar teoria e prática.
+Os encontros são organizados para equilibrar teoria, prática e troca de experiências.
 
-As atividades podem incluir:
+## 🔬 Laboratório Prático
 
-* Discussão de temas estudados na pós-graduação
-* Laboratórios práticos (Hands-on)
-* Estudos de caso do mercado
-* Debates sobre arquitetura e engenharia de software
-* Apresentação de projetos dos participantes
-* Sessões de Pair Programming e revisão técnica
+Vamos construir algo juntos.
+
+A proposta é escolher um tema, problema ou tecnologia e trabalhar de forma colaborativa, desde a concepção da ideia até a implementação.
+
+Podemos discutir requisitos, desenhar arquiteturas, avaliar alternativas e colocar a mão na massa.
 
 ---
 
-## 🚧 Projetos dos Participantes
+## 🤝 Mesa de Ajuda
 
-Um dos objetivos do grupo é incentivar a construção de projetos reais.
+Espaço aberto para dúvidas, dificuldades e troca de experiências.
 
-Nos encontros periódicos, os participantes podem apresentar:
+Qualquer participante pode trazer temas, conceitos ou desafios que gostaria de entender melhor.
+
+Os assuntos são sugeridos ao longo do mês e priorizados pela comunidade.
+
+---
+
+## 🏗️ Casos Reais de Mercado e Arquitetura
+
+Um encontro voltado para análise e discussão.
+
+A ideia é explorar tecnologias, produtos, tendências e arquiteturas utilizadas no mercado.
+
+Também vale especular, discutir hipóteses e exercitar o pensamento arquitetural sobre como determinadas soluções podem ter sido construídas.
+
+---
+
+## 🚀 Showcase dos Projetos
+
+Último encontro do mês.
+
+Um espaço para apresentar projetos, compartilhar aprendizados, receber feedbacks e trocar ideias.
+
+Vale trazer:
 
 * Projetos pessoais
 * MVPs
 * Produtos em desenvolvimento
+* Protótipos
 * Estudos técnicos
-* Protótipos e experimentos
+* Experimentos
 
-A comunidade contribui com sugestões, feedbacks, revisão de arquitetura e troca de experiências.
+A comunidade contribui com sugestões, revisão de arquitetura, discussões técnicas e novas perspectivas.
 
 ---
 
-## 📌 Planejamento e Organização
+# 📌 Planejamento e Organização
 
 Toda a organização do grupo é realizada através do GitHub Projects.
 
-👉 Acesse o planejamento do grupo:
+👉 Planejamento do grupo:
 
-**Projeto Oficial:** https://github.com/users/kurybr/projects/2
-
----
-
-## 📚 Temas de Interesse
-
-Alguns dos tópicos que fazem parte da nossa jornada:
-
-* ( Vamos construir juntos )
+https://github.com/users/kurybr/projects/2
 
 ---
 
-## 🤝 Como Participar
+# 🤝 Como Participar
 
-* Participe dos encontros semanais ( Esse é o principal )
-* Compartilhe dúvidas e aprendizados
-* Proponha temas para discussão
-* Apresente projetos
-* Contribua com materiais e referências
-* Ajude outros participantes a evoluírem
+A principal forma de participar é estar presente nos encontros semanais.
+
+Você também pode:
+
+* Compartilhar dúvidas e aprendizados
+* Propor temas para discussão
+* Apresentar projetos
+* Contribuir com materiais e referências
+* Participar dos laboratórios práticos
+* Ajudar outros participantes a evoluírem
 
 O conhecimento cresce quando é compartilhado.
 
 ---
 
-## 🌱 Construindo Juntos
+# 🌱 Construindo Juntos
 
 Este repositório é um espaço vivo e colaborativo.
 
-A ideia não é apenas estudar Inteligência Artificial, mas desenvolver a capacidade de transformar conhecimento em soluções reais, explorando conceitos, ferramentas e arquiteturas que fazem parte do mercado atual.
+Mais do que estudar Inteligência Artificial, queremos desenvolver a capacidade de transformar conhecimento em soluções reais, explorando conceitos, ferramentas, arquiteturas e desafios que fazem parte do mercado atual.
+
+Não importa se você está começando ou já possui experiência na área.
+
+O importante é ter curiosidade, vontade de aprender e disposição para construir junto com a comunidade.
