@@ -68,23 +68,13 @@ Toda a organização do grupo é realizada através do GitHub Projects.
 
 Alguns dos tópicos que fazem parte da nossa jornada:
 
-* Machine Learning
-* Deep Learning
-* Redes Neurais
-* Sistemas de Recomendação
-* Algoritmos Genéticos
-* LLMs (Large Language Models)
-* Prompt Engineering
-* Embeddings
-* RAG (Retrieval-Augmented Generation)
-* Agentes de IA
-* MCP (Model Context Protocol)
-* Engenharia de Software aplicada à IA
+* ( Vamos construir juntos )
 
 ---
 
 ## 🤝 Como Participar
 
+* Participe dos encontros semanais ( Esse é o principal )
 * Compartilhe dúvidas e aprendizados
 * Proponha temas para discussão
 * Apresente projetos
