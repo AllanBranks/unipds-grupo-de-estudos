@@ -55,3 +55,22 @@ Como a gente define o que vai ser feito, ou o que esperamos na próxima.
 
 
 Escopo e requisitos, 
+
+
+
+
+
+------------------------------------------------------------------------------------------------
+
+Encontro 10/07
+
+Marcação de encerramento (com periodo de inatividade)
+Chatwoot (Open Source) - Plataforma que vai operar o atendimento
+
+POC 
+Ler a mensagem a partir de um TXT -> Analise do atendimento -> OUTPUT
+
+POC <-> Próximos encontros <-> 
+1 - Ler uma mensagem de um TXT e analisar o sentimento da conversa.
+2 - Ouvir um áudio no meio da conversa junto com o texto.
+

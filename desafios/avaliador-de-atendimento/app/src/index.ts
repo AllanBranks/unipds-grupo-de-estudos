@@ -2,13 +2,10 @@ import "dotenv/config";
 import { HumanMessage, SystemMessage } from "@langchain/core/messages";
 import { createGraph } from "./graph.js";
 
-const sampleConversation = `
-Cliente: Olá, preciso de ajuda com minha fatura.
-Atendente: Bom dia! Vou verificar para você. Qual o número do pedido?
-Cliente: #12345
-Atendente: Encontrei. A fatura vence dia 15. Posso ajudar em mais algo?
-Cliente: Não, obrigado!
-`.trim();
+import fs from "fs";
+import path from "path";
+
+const sampleConversation = await fs.readFileSync(path.join( './seed/06-longo-nota-ruim-atendimento-excelente.txt'), 'utf8');
 
 const prompt = `
 Você é um avaliador de atendimentos via WhatsApp.
@@ -16,7 +13,8 @@ Você é um avaliador de atendimentos via WhatsApp.
 Analise a conversa abaixo e responda em português com:
 1. Resumo breve
 2. Sentimento geral do cliente
-3. Avaliação da qualidade do atendimento (1 a 5)
+3. Avaliação da qualidade do atendimento entre pessimo, ruim, regular, bom e excelente.
+4. Dê uma nota de 1 a 5 para a qualidade do atendimento.
 `.trim();
 
 const graph = createGraph();

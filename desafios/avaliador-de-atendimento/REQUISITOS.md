@@ -1,4 +1,5 @@
 # Levantamento de Requisitos
+
 ## LAB 001 • Avaliador Inteligente de Atendimento
 
 > **Status:** Em discussão
@@ -17,6 +18,8 @@ Além da construção da solução, este projeto tem como objetivo servir de lab
 
 ---
 
+
+
 # 👥 Atores
 
 Os seguintes atores participam do fluxo do sistema.
@@ -27,6 +30,8 @@ Os seguintes atores participam do fluxo do sistema.
 - Agente de IA
 
 ---
+
+
 
 # 🔄 Fluxo Inicial
 
@@ -52,19 +57,27 @@ flowchart TD
     style G stroke-dasharray: 5 5
 ```
 
+
+
 > **Observação**
 >
 > Ainda precisamos definir quais critérios caracterizam um atendimento como encerrado.
 
 ---
 
+
+
 # ✅ Requisitos Funcionais
+
+
 
 ## RF01
 
-O sistema deve importar conversas provenientes do WhatsApp.
+O sistema deve ler conversas provenientes do WhatsApp.
 
 ---
+
+
 
 ## RF02
 
@@ -74,11 +87,15 @@ O sistema deve identificar quais conversas estão aptas para análise.
 
 ---
 
+
+
 ## RF03
 
 O sistema deve enviar uma conversa para análise utilizando um Agente de IA.
 
 ---
+
+
 
 ## RF04
 
@@ -86,11 +103,15 @@ O sistema deve gerar um resumo da conversa.
 
 ---
 
+
+
 ## RF05
 
 O sistema deve realizar uma avaliação da qualidade do atendimento.
 
 ---
+
+
 
 ## RF06
 
@@ -98,17 +119,25 @@ O sistema deve identificar o sentimento presente durante a conversa.
 
 ---
 
+
+
 ## RF07
 
 O sistema deve calcular o tempo total do atendimento.
 
+> Uma das formas de entender que o atendimento encerrou, é quanto tempo a conversa está aberta
+
 ---
 
-## RF08
+
+
+## RF08 ( descontinuada )
 
 O sistema deve calcular o tempo entre as interações do atendente e do cliente.
 
 ---
+
+
 
 ## RF09
 
@@ -124,11 +153,15 @@ Exemplos:
 
 ---
 
+
+
 ## RF10
 
 O sistema deve identificar se o problema do cliente foi resolvido.
 
 ---
+
+
 
 ## RF11
 
@@ -136,7 +169,11 @@ O sistema deve registrar o resultado da análise realizada.
 
 ---
 
+
+
 # ⚙️ Requisitos Não Funcionais
+
+
 
 ## RNF01
 
@@ -144,11 +181,15 @@ A stack inicial do projeto será Node.js.
 
 ---
 
+
+
 ## RNF02
 
 O runtime inicial para orquestração dos agentes será o LangGraph.
 
 ---
+
+
 
 ## RNF03
 
@@ -156,11 +197,15 @@ A arquitetura deverá permitir a substituição do modelo de IA utilizado.
 
 ---
 
+
+
 ## RNF04
 
 O projeto será desenvolvido de forma Open Source.
 
 ---
+
+
 
 ## RNF05
 
@@ -168,11 +213,15 @@ Toda funcionalidade deverá possuir documentação suficiente para que desenvolv
 
 ---
 
+
+
 ## RNF06
 
 O desenvolvimento utilizará Inteligência Artificial como ferramenta de apoio durante todas as etapas do projeto.
 
 ---
+
+
 
 ## RNF07
 
@@ -180,11 +229,15 @@ Sempre que possível, a arquitetura deverá favorecer baixo acoplamento entre co
 
 ---
 
+
+
 ## RNF08
 
 O projeto deverá evoluir continuamente através das contribuições da comunidade do laboratório.
 
 ---
+
+
 
 # 📏 Critérios de Avaliação
 
@@ -200,12 +253,16 @@ Durante a análise das conversas, o agente deverá considerar, entre outros, os 
 
 ---
 
+
+
 ## Cliente
 
 - Sentimento transmitido
 - Indícios de satisfação
 
 ---
+
+
 
 ## Processo
 
@@ -215,6 +272,8 @@ Durante a análise das conversas, o agente deverá considerar, entre outros, os 
 - Resolução do problema
 
 ---
+
+
 
 ## Resultado esperado
 
@@ -226,6 +285,8 @@ A análise deverá produzir informações como:
 - Oportunidades de melhoria
 
 ---
+
+
 
 # 📌 Regras de Negócio (Em Discussão)
 
@@ -241,11 +302,15 @@ Qual é a persona do nosso cliente?
 
 ---
 
+
+
 ## RN02
 
 Como identificar que um atendimento foi encerrado?
 
 ---
+
+
 
 ## RN03
 
@@ -253,11 +318,15 @@ Quais critérios definem a qualidade de um atendimento?
 
 ---
 
+
+
 ## RN04
 
 Como determinar que um problema foi realmente resolvido?
 
 ---
+
+
 
 ## RN05
 
@@ -265,11 +334,15 @@ Como categorizar um atendimento?
 
 ---
 
+
+
 ## RN06
 
 Como calcular SLA?
 
 ---
+
+
 
 ## RN07
 
@@ -284,6 +357,8 @@ Exemplo:
 
 ---
 
+
+
 # 🚫 Fora do Escopo do MVP
 
 As funcionalidades abaixo foram levantadas durante o brainstorming, porém deverão ser discutidas em etapas futuras.
@@ -296,6 +371,8 @@ As funcionalidades abaixo foram levantadas durante o brainstorming, porém dever
 - Múltiplos modelos de IA trabalhando em conjunto
 
 ---
+
+
 
 # ❓ Questões para Discussão
 
@@ -311,6 +388,8 @@ Durante o refinamento dos requisitos, gostaríamos de responder às seguintes pe
 
 ---
 
+
+
 # 🎯 Próximo Passo
 
 O primeiro passo do refinamento é **definir a persona do nosso cliente**. Com ela definida, o grupo poderá validar e detalhar as demais regras de negócio.
@@ -321,3 +400,4 @@ Em seguida, os requisitos serão transformados em:
 - Issues
 - Backlog do Projeto
 - Arquitetura Inicial
+
