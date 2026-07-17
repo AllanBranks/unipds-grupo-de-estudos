@@ -40,5 +40,7 @@ Cliente: RDR2 lindo no PS5. Gráficos incríveis.
 Atendente: Aproveite o Velho Oeste!
 Cliente: Gráficos PS5 impressionantes. Valeu a troca!
 Atendente: Bom jogo! 🤠
+Cliente: Chat > loja física. Anotado!
+Atendente: Obrigado! Boa caçada!
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 2

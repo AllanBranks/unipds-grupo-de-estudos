@@ -40,5 +40,7 @@ Cliente: 20 horas e contando. Viciado!
 Atendente: Kkk No Man's Sky é assim! Boa exploração!
 Cliente: Base na lua construída. Viciante demais!
 Atendente: Kkk clássico! Boa construção!
+Cliente: Quase comprei Starfield. Vocês salvaram R$ 300!
+Atendente: Sempre confirmamos compatibilidade! 🚀
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 4

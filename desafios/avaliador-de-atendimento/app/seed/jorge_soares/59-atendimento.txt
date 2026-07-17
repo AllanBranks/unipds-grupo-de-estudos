@@ -38,5 +38,9 @@ Cliente: Treinamento aconteceu. Vi no Instagram de vocês.
 Atendente: Sim! Obrigado por acompanhar. Mudanças reais.
 Cliente: Considero comprar online no futuro. Com outra atendente.
 Atendente: Respeitamos. Online terá atendimento respeitoso garantido.
+Cliente: Vou observar. Obrigada por ouvir.
+Atendente: Obrigada por falar. Sua voz importa.
+Cliente: Espero que mude mesmo. Tchau.
+Atendente: Trabalharemos por isso. Tchau.
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 1

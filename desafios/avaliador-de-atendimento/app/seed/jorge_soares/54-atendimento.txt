@@ -38,5 +38,9 @@ Cliente: Local versus com amigo ontem. Perfeito offline!
 Atendente: Tekken clássico! Bom jogo!
 Cliente: Local versus ontem. Amigo comprou também!
 Atendente: Dupla Tekken! Boa sorte nos combates!
+Cliente: Nota 5 merecida. Objetivo e correto!
+Atendente: Obrigado, Marcos!
+Cliente: Até amanhã na retirada!
+Atendente: Te esperamos!
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 5

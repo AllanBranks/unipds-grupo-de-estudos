@@ -38,5 +38,9 @@ Cliente: Confirmado no extrato. Encerrado.
 Atendente: Obrigado pela confirmação. Lamentamos novamente.
 Cliente: Encerrado. Sem ressentimentos. Só frustração.
 Atendente: Compreendemos. Boa sorte na próxima compra.
+Cliente: Pix confirmado. Encerramos.
+Atendente: Protocolo #ATD-99001 finalizado.
+Cliente: Encerrado. Adeus.
+Atendente: Adeus. Lamentamos a experiência.
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 1

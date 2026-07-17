@@ -38,5 +38,9 @@ Cliente: Case + jogo amanhã. Filho feliz!
 Atendente: Melhor recompensa! Até amanhã!
 Cliente: Filho dormiu abraçado no cartucho novo kkk
 Atendente: Kkk melhor cena! Boa noite!
+Cliente: Atendimento humano faz diferença. Obrigado!
+Atendente: Por nada! Boa diversão!
+Cliente: Até a próxima!
+Atendente: Até! 🎮
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 4

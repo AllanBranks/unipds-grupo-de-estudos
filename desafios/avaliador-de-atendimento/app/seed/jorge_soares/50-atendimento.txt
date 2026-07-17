@@ -40,5 +40,7 @@ Cliente: Elden Ring na mochila. Viagem salva!
 Atendente: Perfeito! Boa viagem!
 Cliente: Cliente de 3 anos continua. Ana salvou.
 Atendente: Ana é excelente! Obrigado por continuar conosco!
+Cliente: Nota 3 justa. Problema resolvido, escalada necessária.
+Atendente: Feedback registrado. Boa viagem!
 [Sistema] Esta conversa foi encerrada. Em uma escala de 1 a 5, como você avalia o atendimento recebido? (1 = péssimo, 5 = excelente)
 Cliente: 3
