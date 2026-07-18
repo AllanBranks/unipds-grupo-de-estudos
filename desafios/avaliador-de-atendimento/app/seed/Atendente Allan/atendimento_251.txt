@@ -1,0 +1,60 @@
+﻿Allan: Oi, sou Allan, atendente da loja GamesBrasil. O que precisa?
+Cliente: Oi, eu sou Marcos Vinicius e preciso resolver um problema com controle DualSense comprado para presente.
+Allan: Claro, vou te ajudar. A compra foi feita hoje ou em outro dia?
+Cliente: Foi ha poucos dias, mas so consegui voltar agora.
+Allan: Sem problema. Voce tem a nota fiscal ou o CPF usado na compra?
+Cliente: Tenho o CPF e tambem trouxe o produto comigo.
+Allan: Perfeito. Vou localizar a venda e conferir o prazo de atendimento.
+Cliente: Certo, porque eu nao quero sair daqui sem uma posicao.
+Allan: Localizei a compra no sistema da GamesBrasil.
+Cliente: O problema e que o controle DualSense comprado para presente comecou a puxar o analogico sozinho durante as partidas.
+Allan: Entendi. Vou registrar o relato exatamente como voce descreveu.
+Cliente: Obrigado, porque no primeiro contato falaram de um jeito muito resumido.
+Allan: Vi que houve uma mensagem anterior, mas ela nao tinha detalhes suficientes.
+Cliente: Foi isso mesmo, eu mandei mensagem e fiquei sem resposta completa.
+Allan: Desculpa por essa falha no retorno. Vou conduzir o atendimento daqui.
+Cliente: Tudo bem, mas eu estou aliviado com essa situacao.
+Allan: Faz sentido. Antes da decisao final, preciso conferir o estado do item.
+Cliente: Pode conferir, eu trouxe tudo do jeito que estava.
+Allan: Vejo aqui embalagem, produto principal e comprovante de compra.
+Cliente: Sim, deixei separado justamente para nao ter problema.
+Allan: Vou fazer uma verificacao rapida no balcao.
+Cliente: Quanto tempo isso leva?
+Allan: Normalmente entre dez e quinze minutos, dependendo do teste.
+Cliente: Tudo bem, eu espero.
+Allan: Enquanto testo, vou consultar se existe estoque ou alternativa disponivel.
+Cliente: Se tiver como trocar hoje, seria o melhor para mim.
+Allan: Entendi sua preferencia e vou deixar isso anotado.
+Cliente: E se nao tiver troca?
+Allan: Ai eu te explico as opcoes antes de registrar qualquer decisao.
+Cliente: Combinado, mas quero transparencia.
+Allan: Fiz a primeira verificacao e confirmei que existe motivo para abrir atendimento.
+Cliente: Entao a loja reconhece que tem algo errado?
+Allan: Reconhece que existe uma ocorrencia a ser tratada, sim.
+Cliente: Isso ja e melhor do que negar sem olhar.
+Allan: Para este caso, a solucao registrada sera teste no balcao, troca imediata e registro da falha no lote.
+Cliente: Me explica o que isso significa na pratica.
+Allan: Significa que vou gerar protocolo, anexar seu relato e vincular a decisao ao cadastro.
+Cliente: Eu recebo esse protocolo?
+Allan: Sim, voce recebe por e-mail e tambem posso entregar anotado no comprovante.
+Cliente: Quero os dois, por favor.
+Allan: Sem problema. Tambem vou colocar observacao para nao repetirem perguntas depois.
+Cliente: Isso ajuda muito, porque repetir tudo cansa.
+Allan: O protocolo esta criado e a decisao ficou salva no atendimento.
+Cliente: Qual e o numero?
+Allan: O numero interno e AT-ALLAN-251.
+Cliente: Dessa vez o atendimento foi claro e resolveu o que eu precisava.
+Allan: Fico contente que conseguimos finalizar sem deixar pendencia aberta.
+Allan: Posso ajudar com mais alguma coisa hoje?
+Cliente: Nao, pode finalizar.
+Allan: Obrigado por falar com a GamesBrasil. Atendimento finalizado.
+Cliente: Minha nota para o atendimento e 5 de 5.
+Cliente: Comentario final:
+Cliente: Procurei a GamesBrasil por causa de controle DualSense comprado para presente e expliquei o problema com detalhes.
+Cliente: O Allan ouviu o relato, conferiu o cadastro e fez perguntas importantes sobre a compra.
+Cliente: A situacao principal era que o produto comecou a puxar o analogico sozinho durante as partidas, e isso precisava ficar registrado.
+Cliente: A solucao oferecida foi teste no balcao, troca imediata e registro da falha no lote, o que influenciou diretamente minha nota.
+Cliente: Gostei de receber protocolo e de saber que o atendimento ficou vinculado ao meu CPF.
+Cliente: Nao gostei da necessidade de repetir informacoes que eu ja tinha enviado antes.
+Cliente: A loja deveria acompanhar melhor cada conversa iniciada por mensagem ou presencialmente.
+Cliente: Minha avaliacao final considera educacao, clareza, tempo de resposta e resultado pratico.

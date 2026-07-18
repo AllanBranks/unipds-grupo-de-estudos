@@ -1,0 +1,64 @@
+﻿Allan: Oi, sou Allan, atendente da loja GamesBrasil. O que precisa?
+Cliente: Oi, eu sou Silvia e vim falar sobre jogo usado de aventura.
+Allan: Claro, vou verificar para voce. Foi uma compra recente?
+Cliente: Sim, foi recente e eu esperava resolver sem tanta demora.
+Allan: Entendo. Voce trouxe nota fiscal ou tem o CPF usado na compra?
+Cliente: Tenho o CPF e tambem tenho algumas mensagens salvas.
+Allan: Pode me passar o CPF primeiro, por favor? Depois olho as mensagens se precisar.
+Cliente: Passei agora. Confere se aparece no sistema.
+Allan: Localizei a compra no cadastro da GamesBrasil.
+Cliente: O ponto e que o jogo usado de aventura foi comprado para presente.
+Allan: Vou registrar exatamente desse jeito para nao perder detalhe do relato.
+Cliente: Isso e importante, porque no outro contato resumiram errado.
+Allan: Vi aqui que houve atendimento anterior, mas sem conclusao registrada.
+Cliente: Pois e, por isso estou insistindo agora.
+Allan: Certo. Antes de prometer algo, preciso confirmar o estado do item.
+Cliente: Pode conferir, mas eu quero uma resposta objetiva.
+Allan: Voce chegou a testar em outro aparelho, tomada, conta ou cabo?
+Cliente: Testei o que eu consegui testar em casa.
+Allan: Perfeito. Isso ajuda a separar defeito de configuracao.
+Cliente: Eu nao sou tecnico, entao preciso que a loja simplifique isso.
+Allan: Faz sentido. Vou explicar cada etapa sem enrolar.
+Cliente: Obrigado, porque eu ja estou ficando cansado desse assunto.
+Allan: Primeiro eu vou validar a compra, depois o item e por ultimo a politica aplicavel.
+Cliente: Tudo bem, desde que nao vire uma desculpa para nao resolver.
+Allan: Nao vou tratar como desculpa. Vou tratar como registro de atendimento.
+Cliente: Certo. O que apareceu na verificacao?
+Allan: Pelo historico, o caso combina com troca imediata apos teste no balcao.
+Cliente: Isso resolve hoje ou ainda vou precisar voltar?
+Allan: Depende da confirmacao final, mas ja consigo te passar o caminho.
+Cliente: Entao me passa o caminho completo.
+Allan: Vou gerar um protocolo, registrar o motivo e deixar a decisao anexada.
+Cliente: Quero receber esse protocolo por escrito.
+Allan: Sim, vai por e-mail e tambem posso anotar no comprovante impresso.
+Cliente: Prefiro os dois, para evitar conversa perdida depois.
+Allan: Sem problema. Tambem vou marcar que voce ja apresentou os testes feitos.
+Cliente: Isso ajuda, porque eu nao quero explicar tudo de novo.
+Allan: Concordo. Atendimento repetido sem historico deixa o cliente sem confianca.
+Cliente: Exatamente. Meu humor agora esta mais tranquilo.
+Allan: Vou tentar fechar a pendencia com o maximo de clareza possivel.
+Cliente: Pode continuar.
+Allan: Confirmei o cadastro, o item e o prazo de compra.
+Cliente: E qual e a decisao final da loja?
+Allan: A decisao final deste atendimento e seguir com troca imediata apos teste no balcao.
+Cliente: Entendi. Nao era exatamente o que eu imaginava, mas agora esta claro.
+Allan: Vou deixar uma observacao para que qualquer proximo atendente veja essa decisao.
+Cliente: Isso precisa mesmo ficar salvo.
+Allan: Ficou salvo. O protocolo tambem esta vinculado ao seu CPF.
+Cliente: Certo, me diga o numero do atendimento.
+Allan: O numero interno deste atendimento e AT-ALLAN-115.
+Cliente: Agora sim eu sinto que a loja assumiu o atendimento.
+Allan: Fico satisfeito por ter conseguido encaminhar de forma clara.
+Allan: Posso ajudar com mais alguma coisa sobre essa compra?
+Cliente: Nao, por enquanto era isso.
+Allan: Obrigado pelo contato com a GamesBrasil. Atendimento finalizado.
+Cliente: Minha nota para o atendimento e 4 de 5.
+Cliente: Comentario final:
+Cliente: Eu procurei a GamesBrasil por causa de jogo usado de aventura e relatei que o item foi comprado para presente.
+Cliente: O atendimento teve uma conversa longa, com perguntas sobre compra, teste e historico.
+Cliente: A resposta do Allan foi classificada por mim como um atendimento positivo.
+Cliente: A solucao registrada foi troca imediata apos teste no balcao, e isso pesou diretamente na nota que dei.
+Cliente: Gostei quando o protocolo ficou claro e quando minhas mensagens anteriores foram consideradas.
+Cliente: Nao gostei quando precisei repetir informacoes que a loja ja deveria ter registrado.
+Cliente: Para melhorar, a loja deveria acompanhar melhor cada caso ate a conclusao.
+Cliente: Minha nota final considera a educacao do atendente, a clareza e o resultado pratico.
