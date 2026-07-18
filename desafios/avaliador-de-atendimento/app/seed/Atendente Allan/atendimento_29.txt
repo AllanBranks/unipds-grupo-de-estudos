@@ -1,0 +1,63 @@
+﻿Allan: Oi, sou Allan, atendente da loja GamesBrasil. O que precisa hoje?
+Cliente: Oi, meu nome e Bianca e preciso falar sobre jogo online com codigo usado.
+Allan: Certo, vou te ajudar. Foi compra feita na loja fisica, no site ou por aplicativo?
+Cliente: Foi pela loja fisica, mas eu tambem conversei com o pessoal pelo WhatsApp.
+Allan: Entendi. Voce tem a nota fiscal ou o CPF usado na compra?
+Cliente: Tenho o CPF, posso passar agora.
+Allan: Pode passar, por favor. Vou conferir o pedido no sistema.
+Cliente: Passei. Consegue ver alguma coisa?
+Allan: Sim, localizei a compra. O assunto registrado aqui aparece como codigo digital.
+Cliente: Isso mesmo, mas eu achei que seria resolvido mais rapido.
+Allan: Vou revisar o historico para nao te pedir informacao repetida.
+Cliente: Obrigado, porque eu ja expliquei isso antes.
+Allan: Vi que houve um primeiro contato, mas ficou sem detalhe tecnico suficiente.
+Cliente: Pois e, eu fiquei esperando retorno e ninguem confirmou nada.
+Allan: Desculpa por essa falta de continuidade. Vou tratar daqui em diante.
+Cliente: Estou calmo, porque gosto da loja, mas dessa vez foi complicado.
+Allan: Me descreve exatamente o que aconteceu quando voce tentou usar o produto?
+Cliente: O problema apareceu no jogo online com codigo usado logo depois que cheguei em casa.
+Allan: Foi logo no primeiro uso ou depois de alguns dias?
+Cliente: Depende, usei pouco, mas percebi quando fui jogar com mais calma.
+Allan: Entendi. Tem embalagem, acessorios e comprovante ainda com voce?
+Cliente: Tenho quase tudo, so nao sei se guardei um plastico interno.
+Allan: Isso normalmente nao impede a analise. O mais importante e o item principal.
+Cliente: Certo. Eu queria saber se vou sair daqui com uma resposta hoje.
+Allan: Minha proposta e seguir com novo codigo solicitado, conforme a regra da loja e o estado do item.
+Cliente: Explica melhor, por favor, porque nao quero ficar no prejuizo.
+Allan: Primeiro eu confiro o item, depois registro foto, numero de serie e relato.
+Cliente: Isso demora muito?
+Allan: A primeira verificacao costuma levar de dez a quinze minutos.
+Cliente: Tudo bem, posso esperar.
+Allan: Enquanto isso, vou confirmar se existe estoque ou alternativa disponivel.
+Cliente: Se tiver troca, prefiro resolver hoje mesmo.
+Allan: Concordo. Quando da para resolver no balcao, e melhor para todo mundo.
+Cliente: E se nao tiver estoque?
+Allan: Ai posso oferecer reserva, vale no mesmo valor ou abertura formal de garantia.
+Cliente: Vale nao e minha primeira opcao.
+Allan: Registrado. Vou priorizar troca ou solucao direta antes de falar em vale.
+Cliente: Obrigado por pelo menos ouvir o que eu prefiro.
+Allan: Fiz a consulta e encontrei uma possibilidade para o seu caso.
+Cliente: Qual seria a possibilidade para esse 
+Allan: Pelo que consta, podemos seguir com novo codigo solicitado agora, mas preciso da sua confirmacao.
+Cliente: Se isso resolver de verdade, pode seguir.
+Allan: Vou registrar que voce aceitou essa alternativa e anexar o relato.
+Cliente: Quero uma copia ou protocolo, por favor.
+Allan: Claro. O protocolo do atendimento 29 vai sair no comprovante e no seu e-mail.
+Cliente: Certo, isso ja ajuda bastante.
+Allan: Tambem deixei uma observacao para o proximo atendente nao recomecar do zero.
+Cliente: Isso era o que eu esperava desde o inicio.
+Allan: Fico feliz que conseguimos encaminhar sem deixar pendencia aberta.
+Cliente: Sim, agora senti que alguem acompanhou o caso de verdade.
+Allan: Posso ajudar em mais alguma coisa antes de finalizar?
+Cliente: Nao, pode finalizar.
+Allan: Atendimento finalizado. Obrigado por falar com a GamesBrasil, Bianca.
+Cliente: Minha nota para o atendimento e 4 de 5.
+Cliente: Comentario final:
+Cliente: Procurei a loja por causa de jogo online com codigo usado e esperava uma resposta objetiva.
+Cliente: A conversa teve momentos em que me senti ouvido e outros em que precisei insistir.
+Cliente: O atendente Allan explicou o procedimento ligado a codigo digital com detalhes suficientes.
+Cliente: A solucao apresentada foi novo codigo solicitado, e isso influenciou muito minha avaliacao.
+Cliente: Quando houve clareza sobre prazos, alternativas e protocolo, a situacao ficou mais facil.
+Cliente: Quando a resposta parecia repetida ou demorada, minha confianca caiu bastante.
+Cliente: Eu gostaria que a loja registrasse melhor os contatos anteriores para evitar retrabalho.
+Cliente: No geral, minha nota considera tanto o resultado final quanto a forma como fui tratado.
